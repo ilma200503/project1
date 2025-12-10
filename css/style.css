@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(235, 144, 243);
+}
+
+#profilbild {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 20px;
+    background-color: rgb(117, 248, 248);
+}
+
+ul li {
+    color: rgb(21, 255, 0);
+}
+
+ol li {
+    color: deeppink;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a {
+    color: hotpink;
+}
+
+.cv-section {
+    border: 2px black;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
